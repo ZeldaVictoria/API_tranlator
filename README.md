@@ -5,3 +5,4 @@ install python deepl module
 - Powershell command
 py -m pip install deepl
 
+DeepL API Key
