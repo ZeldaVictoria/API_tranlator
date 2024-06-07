@@ -1,0 +1,49 @@
+{
+    "header": {
+        "background-color": "#9DA9AF",
+        "font-color": "#0B2D3A",
+        "font-style": "default",
+        "font-size": 30
+    },
+    "input-widget": {
+        "background-color": "#fff",
+        "font-color": "#0B2D3A",
+        "font-style": "default",
+        "font-size": 11,
+        "window-width": 60,
+        "window-height": 20
+
+    },
+    "output-widget": {
+        "background-color": "#fff",
+        "font-color": "#0B2D3A",
+        "font-style": "default",
+        "font-size": 11,
+        "window-width": 50,
+        "window-height": 20
+    },
+    "information-widget": {
+        "background-color": "#fff",
+        "font-color": "#0B2D3A",
+        "font-style": "default",
+        "font-size": 11,
+        "window-width": 50,
+        "window-height": 2
+    },
+    "translation-button":{
+        "background-color": "#009AB9",
+        "font-color": "#fff",
+        "font-style": "Arial",
+        "font-size": 15,
+        "button-width": 10,
+        "button-height": 2
+    },
+    "csv-button":{
+        "background-color": "#ED1652",
+        "font-color": "#fff",
+        "font-style": "Arial",
+        "font-size": 15,
+        "button-width": 10,
+        "button-height": 2
+    }
+}
